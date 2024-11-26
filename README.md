@@ -1,5 +1,3 @@
-Here’s a comprehensive and professional **`README.md`** template for your GitHub repository based on the provided project report data:
-
 ---
 
 # **Web Application for Insurance Deals**  
@@ -166,5 +164,3 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
-
-This `README.md` file is structured, detailed, and user-friendly, making it easy for collaborators or users to understand and set up your project. You can customize placeholders like `your-username` or replace the *Insert* sections with your actual content.
