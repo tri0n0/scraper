@@ -116,15 +116,6 @@ python app.py
   ![Screenshot 2024-11-26 083807](https://github.com/user-attachments/assets/96b4ac0b-5ef1-46b6-9c90-20193f17dc2d)
 ![Screenshot 2024-11-26 083743](https://github.com/user-attachments/assets/412c50f5-066b-4d67-b6a5-3fd82523e7e6)
 
-### **Homepage**  
-*Insert a screenshot of the homepage here.*
-
-### **Search Results**  
-*Insert a screenshot of the search results table here.*
-
-### **Error Handling**  
-*Insert a screenshot demonstrating error handling here.*
-
 ---
 
 ## **ER Diagram**  
@@ -142,7 +133,7 @@ python app.py
 
 ## **Contributing**  
 
-We welcome contributions! Please follow these steps:  
+For contri just fork it and push it! Please follow these steps:  
 
 1. Fork the repository.  
 2. Create a new branch for your feature or bug fix:  
