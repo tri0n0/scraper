@@ -113,6 +113,8 @@ python app.py
 ---
 
 ## **Screenshots**  
+  ![Screenshot 2024-11-26 083807](https://github.com/user-attachments/assets/96b4ac0b-5ef1-46b6-9c90-20193f17dc2d)
+![Screenshot 2024-11-26 083743](https://github.com/user-attachments/assets/412c50f5-066b-4d67-b6a5-3fd82523e7e6)
 
 ### **Homepage**  
 *Insert a screenshot of the homepage here.*
